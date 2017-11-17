@@ -12,5 +12,6 @@ Möchte man diese Lösung mit dem AddOn pdfOut oder anderen URLs mit Parametern 
 
 ## Credits
 Realisierung: Christian Gehrke
+
 [KLXM Crossmedia GmbH](https://klxm.de)
 
