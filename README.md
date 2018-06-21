@@ -1,7 +1,9 @@
 # PDF Viewer
 
-Das REDAXO-AddOn stellt das *pdf.js*-Script von Mozilla zur Verfügung. Das Script läuft unter der Apache-Lizenz. [pdf.js](https://github.com/mozilla/pdf.js)
+Das REDAXO-AddOn stellt das *pdf.js*-Script von Mozilla zur Verfügung. 
+Das Script läuft unter der Apache-Lizenz. [pdf.js](https://github.com/mozilla/pdf.js)
 
+PDFs können so ohne zusätzliches PlugIn im Browser betrachtet werden
 
 ## Link-Beispiel
 
