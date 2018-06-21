@@ -24,6 +24,8 @@ Möchte man diese Lösung mit dem AddOn pdfOut oder anderen URLs mit Parametern 
 [Thomas Skerbis](https://github.com/skerbis)
 
 **Credits**
+
 Realisierung: Christian Gehrke
+
 [KLXM Crossmedia GmbH](https://klxm.de)
 
