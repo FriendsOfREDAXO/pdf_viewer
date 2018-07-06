@@ -7,7 +7,7 @@ PDFs können so ohne zusätzliches PlugIn im Browser betrachtet werden
 
 ## Link-Beispiel
 
-```
+```html
 <a href="<?= rex_url::assets('addons/pdf_viewer/pdf.js-gh-pages/web/viewer.html?file=/media/deinePDFdatei.pdf') ?>">Link</a> 
 ```
 
