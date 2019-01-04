@@ -21,9 +21,6 @@ Möchte man diese Lösung mit dem AddOn pdfOut oder anderen URLs mit Parametern 
 * http://www.redaxo.org
 * https://github.com/FriendsOfREDAXO
 
-**Projekt-Lead**
-
-[Thomas Skerbis](https://github.com/skerbis)
 
 **Credits**
 
