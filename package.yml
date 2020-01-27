@@ -1,7 +1,7 @@
 package: pdf_viewer
 version: '1.0.1' 
-author: KLXM Crossmedia GmbH
-supportpage: https://github.com/KLXM
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/pdf_viewer
            
 requires:
     redaxo: '^5.1'
