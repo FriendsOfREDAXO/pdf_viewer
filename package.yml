@@ -6,4 +6,4 @@ supportpage: https://github.com/FriendsOfREDAXO/pdf_viewer
 requires:
     redaxo: '^5.1'
     php:
-        version: '>=5.6' 
+        version: '^5.6'
