@@ -1,5 +1,7 @@
 # PDF Viewer
 
+⚠️ Entwicklung eingestellt: Das AddOn wurde im Februar 2020 in das AddOn [pdfout](https://github.com/FriendsOfREDAXO/pdfout) integriert und wird an dieser Stelle nicht länger gepflegt. / Deprecated: as of feb. 2020 the addOn has been merged into the [pdfout](https://github.com/FriendsOfREDAXO/pdfout) addOn and won’t be maintained any longer.
+
 Das REDAXO-AddOn stellt das *pdf.js*-Script von Mozilla zur Verfügung. 
 Das Script läuft unter der Apache-Lizenz. [pdf.js](https://github.com/mozilla/pdf.js)
 
